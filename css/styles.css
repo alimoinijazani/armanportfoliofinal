@@ -781,6 +781,9 @@ for medium device */
   .portfolio__content {
     align-items: center;
   }
+  .portfolio__content img {
+    margin: auto;
+  }
   .project {
     text-align: initial;
   }
