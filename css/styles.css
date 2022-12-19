@@ -107,6 +107,9 @@ img {
 .readmore-btn {
   cursor: pointer;
 }
+textarea {
+   resize: none;
+}
 /* layout */
 .container {
   max-width: 768px;
